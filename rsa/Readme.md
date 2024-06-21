@@ -31,7 +31,6 @@ make clean;make
 ```
 
 编译完成后，二进制文件会保存到 bin 目录下，包含两个文件：encrypt 和 decrypt，分别可以加密和解密
-⚠️ 目前只能对 7 位以内的仅包含数字的字符串进行加密和解密
 
 执行如下的命令可以运行 encrypt 和 decrypt
 
